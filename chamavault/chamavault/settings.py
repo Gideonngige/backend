@@ -71,7 +71,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'chamavault.wsgi.application'
+WSGI_APPLICATION = 'chamavault.wsgi.app'
 
 
 # Database
